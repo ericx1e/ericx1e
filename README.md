@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+![Eric’s GitHub stats](https://github-readme-stats.vercel.app/api?username=thisisvillegas&theme=synthwave&show_icons=true&count_private=true “Eric’s GitHub Stats”)
+
 <!--
 **ericx1e/ericx1e** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
