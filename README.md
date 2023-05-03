@@ -1,6 +1,6 @@
 ### 💻 &nbsp;About Me :
 <ul>
-  <li> 🎓&nbsp;Computer Science and Math double major at University of Maryland, College Park
+  <li> 🎓&nbsp;Computer Science and Applied Math double major at University of Maryland, College Park
   <li> ⚡️&nbsp;Interested in web dev, machine learning, game design, and competative programming
 </ul>
 
