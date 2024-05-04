@@ -1,7 +1,7 @@
 ### 💻 &nbsp;About Me :
 <ul>
   <li> 🎓&nbsp;I am Sophomore Computer Science and Mathematics major at University of Maryland, College Park
-  <li> ⚡️&nbsp;I am interested in web dev, machine learning, game design, and competative programming
+  <li> ⚡️&nbsp;I am interested in web dev, machine learning, game design, and competetive programming
   <li> 🎯&nbsp;I love building projects and am seeking professional experience
 </ul>
 
