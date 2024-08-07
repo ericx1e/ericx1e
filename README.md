@@ -1,8 +1,8 @@
 ### 💻 &nbsp;About Me :
 <ul>
-  <li> 🎓&nbsp;I am Sophomore Computer Science and Mathematics major at University of Maryland, College Park
+  <li> 🎓&nbsp;I am a Junior Computer Science and Mathematics major at University of Maryland, College Park
   <li> ⚡️&nbsp;I am interested in web dev, machine learning, game design, and competetive programming
-  <li> 🎯&nbsp;I love building projects and am seeking professional experience
+  <li> 🎯&nbsp;I love building projects, and I am seeking professional experience
 </ul>
 
 ---
@@ -10,8 +10,8 @@
 ### 🛠 &nbsp;Languages and Tools :
 
 <p>
+<img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="Jupyter" alt="Jupyter" width="40" height="40"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" title="C++" alt="C++" width="40" height="40"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
