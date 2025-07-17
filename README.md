@@ -37,11 +37,11 @@
         <br><strong>Full-Stack Development</strong>
         <br><sub>Creating seamless end-to-end solutions</sub>
       </td>
-      <td align="center" width="25%">
+<!--       <td align="center" width="25%">
         <img src="https://img.icons8.com/color/48/000000/system-task.png" alt="Systems"/>
         <br><strong>Systems Programming</strong>
         <br><sub>Building robust, scalable infrastructure</sub>
-      </td>
+      </td> -->
       <td align="center" width="25%">
         <img src="https://img.icons8.com/color/48/000000/calculator.png" alt="Math"/>
         <br><strong>Mathematical Modeling</strong>
