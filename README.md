@@ -68,7 +68,7 @@
 <td width="50%">
 
 ### 💰 Kalshi AI Forecaster
-**AI Trading Agent | 69.7% Accuracy**
+**AI Trading Agent**
 - 🧠 Built with Gemini Pro & LangChain
 - 📊 Custom VWAP features for predictions
 - ⚡ Real-time Flask + React frontend
