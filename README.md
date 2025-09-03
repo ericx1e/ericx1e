@@ -161,35 +161,6 @@
 
 ---
 
-## 🎓 Academic Excellence
-
-<div align="center">
-
-| 📚 **Mathematics & Theory** | 💻 **Computer Science** | 💰 **Finance** |
-|:---:|:---:|:---:|
-| Advanced Calculus | Machine Learning | Portfolio Management |
-| Probability Theory | Deep Learning | Financial Markets & Data |
-| Abstract Algebra | Data Science | Computational Finance |
-| Cryptography | Computer Networks | Mathematical Modeling |
-| Combinatorics & Graph Theory | Algorithms | Risk Analysis |
-| Partial Differential Equations | Artificial Intelligence | Quantitative Finance |
-
-</div>
-
----
-
-## 🏆 Achievements & Recognition
-
-<div align="center">
-
-🎖️ **Computer Science Honors Program** • 🥇 **Dean's List (All Semesters)** • 👑 **Internal VP, Chinese Student Association**
-
-📈 **69.7% AI Trading Accuracy** • 🎯 **99.7% ML Algorithm Precision** • 💡 **100x ML Training Efficiency**
-
-</div>
-
----
-
 ## 💼 Professional Experience
 
 <div align="center">
