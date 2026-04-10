@@ -1,182 +1,109 @@
-<div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Hi+there!+I'm+Eric+Xie+%F0%9F%91%8B;AI+%26+Software+Engineer;Building+the+Future+%F0%9F%9A%80" alt="Typing SVG" />
-</div>
-
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=ericx1e&style=flat-square&color=blue" alt="Profile Views"/>
-  <img src="https://img.shields.io/github/followers/ericx1e?style=flat-square&color=blue" alt="GitHub Followers"/>
-  <img src="https://img.shields.io/github/stars/ericx1e?style=flat-square&color=blue" alt="GitHub Stars"/>
-</div>
+<p align="center">
+  <img src="./banner.svg" alt="Eric Xie" width="100%"/>
+</p>
 
 ---
 
-## 🚀 About Me
-
-<div align="center">
-  
-**🎓 Computer Science & Mathematics @ University of Maryland** | **GPA: 3.92/4.00**
-
-**💼 Software Engineering Intern @ Capital One (Summer 2025)**
-
-*Previously: Boston Scientific • Precidiag*
-
-</div>
-
-<br>
-
-<div align="center">
-  <table>
-    <tr>
-      <td align="center" width="25%">
-        <img src="https://img.icons8.com/color/48/000000/artificial-intelligence.png" alt="AI"/>
-        <br><strong>AI & ML</strong>
-        <br><sub>Building intelligent systems that learn and adapt</sub>
-      </td>
-      <td align="center" width="25%">
-        <img src="https://img.icons8.com/color/48/000000/code.png" alt="Code"/>
-        <br><strong>Full-Stack Development</strong>
-        <br><sub>Creating seamless end-to-end solutions</sub>
-      </td>
-<!--       <td align="center" width="25%">
-        <img src="https://img.icons8.com/color/48/000000/system-task.png" alt="Systems"/>
-        <br><strong>Systems Programming</strong>
-        <br><sub>Building robust, scalable infrastructure</sub>
-      </td> -->
-      <td align="center" width="25%">
-        <img src="https://img.icons8.com/color/48/000000/calculator.png" alt="Math"/>
-        <br><strong>Mathematical Modeling</strong>
-        <br><sub>Solving complex problems with math</sub>
-      </td>
-    </tr>
-  </table>
-</div>
-
-<div align="center">
-  
-**🏆 Achievements:** Computer Science Honors Program • Dean's List (All Semesters) • Student Leadership
-
-**🎯 Currently:** Open to Full-Time Software Engineering Opportunities (2026)
-
-</div>
+I build full-stack applications and web games, and I'm obsessive about
+performance and user experience. CS + Math background with a focus on
+applied ML and clean, fast software.
 
 ---
 
-## 🌟 Featured Projects
+## Experience
 
-<table>
-<tr>
-<td width="50%">
-
-### 💰 Kalshi AI Forecaster
-**AI Trading Agent**
-- 🧠 Built with Gemini Pro & LangChain
-- 📊 Custom VWAP features for predictions
-- ⚡ Real-time Flask + React frontend
-- 🎯 Outperformed human baselines
-
-</td>
-<td width="50%">
-
-### 🔗 BitTorrent Client
-**P2P File Sharing from Scratch**
-- 🐍 Pure Python implementation
-- 🔄 Multi-threading & select system calls
-- 🔒 SHA-1 validation & piece requests
-- 🌐 Full tracker communication
-
-</td>
-</tr>
-<tr>
-<td width="50%">
-
-### 🎯 Tank Arena
-**Real-Time Multiplayer Game**
-- 🎮 WebSocket-based game server
-- 🎨 p5.js graphics & physics engine
-- 👥 Room management & state sync
-- 🔴 Live deployment available
-
-</td>
-<td width="50%">
-
-### 🕸️ Graph Analysis
-**Advanced ML Research**
-- 📐 3D geometric reconstruction
-- 🎯 99.7% accuracy with SVD alignment
-- 🔬 Semidefinite programming in MATLAB
-- 🏆 Spectral clustering algorithms
-
-</td>
-</tr>
-</table>
+| | |
+|---|---|
+| **2026** | Capital One — Software Engineer |
+| **2025** | Capital One — Software Engineering Intern · Security tooling & Chrome extensions |
+| **2024** | Boston Scientific — Software Engineering Intern · RAG tooling & LLM deployment |
+| **2022** | Precidiag — ML Intern · 100× training efficiency improvement |
 
 ---
 
-## 💻 Tech Stack
+## Projects
 
-<div align="center">
+**[Kalshi AI Forecaster](link)**
+Prediction market trading agent using Gemini Pro + LangChain. Custom VWAP features, real-time UI, outperformed human baselines.
+`Python` `LangChain` `Flask` `React`
 
-### Languages
-![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Java](https://img.shields.io/badge/-Java-007396?style=for-the-badge&logo=java&logoColor=white)
-![C++](https://img.shields.io/badge/-C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![C](https://img.shields.io/badge/-C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
-![MATLAB](https://img.shields.io/badge/-MATLAB-0076A8?style=for-the-badge&logo=mathworks&logoColor=white)
+**[Tank Arena](link)**
+Real-time multiplayer game with WebSocket server, fog-of-war rendering, and room/state management.
+`p5.js` `Node.js` `WebSocket`
 
-### Frameworks & Libraries
-![React](https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Flask](https://img.shields.io/badge/-Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-![Pandas](https://img.shields.io/badge/-Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+**[BitTorrent Client](link)**
+Full P2P client from scratch — tracker comms, SHA-1 piece validation, multi-threading with `select()`.
+`Python` `networking` `concurrency`
 
-### Tools & Technologies
-![AWS](https://img.shields.io/badge/-AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
-![Docker](https://img.shields.io/badge/-Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
-![Jupyter](https://img.shields.io/badge/-Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
-![Unity](https://img.shields.io/badge/-Unity-000000?style=for-the-badge&logo=unity&logoColor=white)
-
-</div>
+**[Graph Analysis](link)**
+3D geometric reconstruction via SDP and spectral clustering. 99.7% accuracy using SVD alignment.
+`MATLAB` `SDP` `spectral methods`
 
 ---
+<svg width="860" height="180" viewBox="0 0 860 180" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <pattern id="grid" width="32" height="32" patternUnits="userSpaceOnUse">
+      <path d="M 32 0 L 0 0 0 32" fill="none" stroke="rgba(255,255,255,0.03)" stroke-width="1"/>
+    </pattern>
+    <linearGradient id="fadeRight" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#0d1117" stop-opacity="0"/>
+      <stop offset="100%" stop-color="#0d1117" stop-opacity="1"/>
+    </linearGradient>
+    <linearGradient id="fadeBottom" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="#0d1117" stop-opacity="0"/>
+      <stop offset="100%" stop-color="#0d1117" stop-opacity="1"/>
+    </linearGradient>
+  </defs>
 
-## 📊 GitHub Analytics
+  <!-- Background -->
+  <rect width="860" height="180" rx="10" fill="#0d1117"/>
 
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ericx1e&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ericx1e&layout=compact&theme=tokyonight"/>
-</div>
+  <!-- Grid -->
+  <rect width="860" height="180" rx="10" fill="url(#grid)"/>
 
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ericx1e&theme=tokyonight" alt="GitHub Streak"/>
-</div>
+  <!-- Fade right -->
+  <rect x="640" width="220" height="180" fill="url(#fadeRight)"/>
 
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ericx1e&theme=tokyo-night" alt="GitHub Activity Graph"/>
-</div>
+  <!-- Fade bottom -->
+  <rect y="120" width="860" height="60" fill="url(#fadeBottom)"/>
 
----
+  <!-- Name -->
+  <text x="48" y="72" font-family="Courier New, monospace" font-size="36" font-weight="700" fill="#e6edf3" letter-spacing="-0.5">Eric Xie</text>
+  <text x="202" y="72" font-family="Courier New, monospace" font-size="36" font-weight="700" fill="#58a6ff">.</text>
 
-## 💼 Professional Experience
+  <!-- Role -->
+  <text x="48" y="100" font-family="Courier New, monospace" font-size="13" fill="#8b949e">CS + Math · University of Maryland · Software Engineer @ Capital One</text>
 
-<div align="center">
+  <!-- Pills -->
+  <!-- web games -->
+  <rect x="48" y="118" width="88" height="24" rx="12" fill="#0d2044" stroke="#1f3f6e" stroke-width="1"/>
+  <text x="92" y="134" font-family="Courier New, monospace" font-size="11" fill="#58a6ff" text-anchor="middle">web games</text>
 
-```mermaid
-timeline
-    title Career Journey
-    2022 : Precidiag
-         : Machine Learning Intern
-         : 100x Training Efficiency
-    2024 : Boston Scientific
-         : Software Engineering Intern
-         : RAG Tooling & LLM Deployment
-    2025 : Capital One
-         : Software Engineering Intern
-         : Security & Chrome Extensions
-    2026 : Your Company?
-         : Full-Time Software Engineer
-         : Let's build something amazing!
+  <!-- full-stack -->
+  <rect x="144" y="118" width="79" height="24" rx="12" fill="#0b2215" stroke="#1a3d24" stroke-width="1"/>
+  <text x="183.5" y="134" font-family="Courier New, monospace" font-size="11" fill="#3fb950" text-anchor="middle">full-stack</text>
+
+  <!-- machine learning -->
+  <rect x="231" y="118" width="127" height="24" rx="12" fill="#1e1040" stroke="#3d2a6e" stroke-width="1"/>
+  <text x="294.5" y="134" font-family="Courier New, monospace" font-size="11" fill="#bc8cff" text-anchor="middle">machine learning</text>
+
+  <!-- applied math -->
+  <rect x="366" y="118" width="95" height="24" rx="12" fill="#221a07" stroke="#4a3510" stroke-width="1"/>
+  <text x="413.5" y="134" font-family="Courier New, monospace" font-size="11" fill="#d29922" text-anchor="middle">applied math</text>
+
+  <!-- performance & UX -->
+  <rect x="469" y="118" width="122" height="24" rx="12" fill="#0b221e" stroke="#1a3d35" stroke-width="1"/>
+  <text x="530" y="134" font-family="Courier New, monospace" font-size="11" fill="#39d0b0" text-anchor="middle">performance &amp; UX</text>
+</svg>
+
+## Stack
+
+![Python](https://img.shields.io/badge/Python-0d1117?style=flat-square&logo=python&logoColor=58a6ff)
+![JavaScript](https://img.shields.io/badge/JavaScript-0d1117?style=flat-square&logo=javascript&logoColor=d29922)
+![Java](https://img.shields.io/badge/Java-0d1117?style=flat-square&logo=openjdk&logoColor=bc8cff)
+![C++](https://img.shields.io/badge/C++-0d1117?style=flat-square&logo=cplusplus&logoColor=39d0b0)
+![React](https://img.shields.io/badge/React-0d1117?style=flat-square&logo=react&logoColor=58a6ff)
+![Node.js](https://img.shields.io/badge/Node.js-0d1117?style=flat-square&logo=nodedotjs&logoColor=3fb950)
+![PyTorch](https://img.shields.io/badge/PyTorch-0d1117?style=flat-square&logo=pytorch&logoColor=bc8cff)
+![AWS](https://img.shields.io/badge/AWS-0d1117?style=flat-square&logo=amazonaws&logoColor=d29922)
+![Docker](https://img.shields.io/badge/Docker-0d1117?style=flat-square&logo=docker&logoColor=58a6ff)![Uploading banner.svg…]()
